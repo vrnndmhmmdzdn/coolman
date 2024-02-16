@@ -1,0 +1,47 @@
+
+@media (max-width: 652px) {
+    .logo {
+        padding-left: 16px;
+        }
+    .hero h1{
+        font-size: 2em;
+    }
+    .hero h3{
+        font-size: 1em;
+    }
+    .about-us{
+        height: 140vh;
+    }
+    .our{
+        height: 100vh;
+        padding: 80px auto;
+    }
+    .visi{
+        height: 140vh;
+    }
+    .gallery{
+        height: 70vh;
+    }
+    .hasil-cukur{
+        height: 80vh;
+        width: 100%;
+    }
+    .service{
+        gap: 4px;
+    }
+    .reason{
+        height: fit-content;
+        padding-top: 40px;
+    }
+    .contact{
+        height: 120vh;
+    }
+    .contact .content-contact{
+        gap: 0px;
+    }
+    footer{
+        font-size: .8em;
+        height: 60px;
+        justify-content: space-around;
+    }
+}
